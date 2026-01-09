@@ -74,9 +74,15 @@ def generate_email_html(
                 </table>
 
                 <p style="margin-top:25px;font-weight:bold">
-                  Eugene<br/>
-                  Sales Director<br/>
+                  Regards<br/>
+                  Customer Success Team<br/>
+                  Business Inovation Expo</br>
+                  (+44) 2034517166<br/>
                   3–4 March 2026 | London Olympia<br/>
+                  <br/>
+                  On Behalf of<br/>
+                  Eugene<br/>
+                  Show Director<br/>
                   <a href="mailto:eugene@businessinnovationexpo.com"
                      style="color:#D7262F">eugene@businessinnovationexpo.com</a><br/>
                   (+44) 2034517166
